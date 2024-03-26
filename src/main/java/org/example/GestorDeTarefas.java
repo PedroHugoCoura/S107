@@ -39,4 +39,5 @@ public class GestorDeTarefas {
     public void marcarTarefaComoConcluida(Tarefa tarefa) {
         tarefa.setConcluida(true);
     }
+    
 }
