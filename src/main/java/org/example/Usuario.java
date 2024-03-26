@@ -12,8 +12,6 @@ public class Usuario {
 
     }
 
-    // construtor e métodos getters e setters
-
     public String getNome() {
         return nome;
     }
